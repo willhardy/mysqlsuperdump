@@ -1,0 +1,4 @@
+github.com/dlintw/goconf v0.0.0-20120228082610-dcc070983490 h1:I8/Qu5NTaiXi1TsEYmTeLDUlf7u9pEdbG+azjDvx8Vg=
+github.com/dlintw/goconf v0.0.0-20120228082610-dcc070983490/go.mod h1:jWlUIP63OLr0cV2FGN2IEzSFsMAe58if8rk/SAE0JRE=
+github.com/go-sql-driver/mysql v1.5.0 h1:ozyZYNQW3x3HtqT1jira07DN2PArx2v7/mN66gGcHOs=
+github.com/go-sql-driver/mysql v1.5.0/go.mod h1:DCzpHaOWr8IXmIStZouvnhqoel9Qv2LBy8hT2VhHyBg=
