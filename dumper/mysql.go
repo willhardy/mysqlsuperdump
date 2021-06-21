@@ -210,7 +210,7 @@ func (d *mySQL) DumpTableData(w io.Writer, table string) (err error) {
 }
 
 func (d *mySQL) Dump(w io.Writer) (err error) {
-	fmt.Fprintf(w, "SET NAMES utf8;\n")
+	fmt.Fprintf(w, "SET NAMES utf8mb4;\n")
 	fmt.Fprintf(w, "SET FOREIGN_KEY_CHECKS = 0;\n")
 
 	d.Log.Println("Getting table list...")
