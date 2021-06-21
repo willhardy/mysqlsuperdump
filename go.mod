@@ -1,4 +1,4 @@
-module mysqlsuperdump
+module github.com/willhardy/mysqlsuperdump
 
 go 1.15
 
